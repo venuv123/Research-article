@@ -35,10 +35,10 @@ You'll need to install:
 * `authors.csv` - CSV file of authors who wrote the research paper.
 
 
-## Authors
 
-* **[Paul Foley](https://github.com/paulfoley)**
-* [Udacity](https://www.udacity.com/)
+
+
+
 
 
 ## License
